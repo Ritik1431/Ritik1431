@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Persuing **Btech in CSE From LPU**
 
-- 🌱 I’m good in **React , java Script , HTML , CSS , C++ , MySQL , Tableau , Power BI , Excel.**
+- 🌱 I’m good in **React ,Node js , Express js, java Script , HTML , CSS , C++ , MySQL , .**
 
 - 👨‍💻 All of my projects are available at [https://ritiksinghportfolio.netlify.app/](https://ritiksinghportfolio.netlify.app/)
 
